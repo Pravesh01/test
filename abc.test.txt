@@ -18,3 +18,4 @@ Why Ram is running so fast
 We are using github for the cloud
 Today I have completed Azure clod computing training
 It was the first module of the cloud computing  
+Mere raho tum or ham rete chal ghar chale ab ham
